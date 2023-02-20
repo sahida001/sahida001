@@ -9,8 +9,11 @@
 
 <h1>About Me! 😎</h1>
 
-### I am passionate about computer and computer programming since high school. I have experience in Go lang, Java, C++ / C, Android , Git, Github, MongoDB, MySQL, SQLite database, Room Database etc . I'm currently working as a Software Engineer Intern at JB Coders Ltd. Bangladesh.
-I have plan to become an expert in backend technologies.
+### As a front-end developer and graphic designer with over two years of experience, I bring a unique blend of technical and creative skills to the table. My passion for web design and development, combined with my background in computer science (BSc in CSE), has given me a strong foundation in the industry and an eye for detail.
+
+I am confident in my ability to create visually appealing and user-friendly websites. I am proficient in HTML, CSS, JavaScript, and various front-end frameworks and have a strong understanding of responsive design and cross-browser compatibility.
+
+I am now seeking an internship as a front-end developer to further develop my skills and gain hands-on experience in a professional environment. I am eager to work with a team of experienced developers and designers and contribute to the creation of innovative and impactful web projects.
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> :)</em>
 
 
